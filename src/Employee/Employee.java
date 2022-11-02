@@ -1,3 +1,5 @@
+package Employee;
+
 public class Employee {
 
    private String fullName;
@@ -84,7 +86,7 @@ public class Employee {
 
 
     public String toString() {
-        return "Employee{" +
+        return "Employee.Employee{" +
                 "fullName='" + fullName + '\'' +
                 ", salary=" + salary +
                 ", workHours=" + workHours +

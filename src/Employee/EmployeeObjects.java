@@ -1,3 +1,7 @@
+package Employee;
+
+import Employee.Employee;
+
 public class EmployeeObjects {
 
     public static void main(String[] args) {
