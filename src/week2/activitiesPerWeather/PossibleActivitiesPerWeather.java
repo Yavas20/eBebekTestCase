@@ -11,6 +11,7 @@ public class PossibleActivitiesPerWeather {
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Please enter the heat degree :");
+
         heat = scan.nextInt();
 
         if(heat < 5) {
