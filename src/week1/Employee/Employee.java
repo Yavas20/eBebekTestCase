@@ -1,4 +1,4 @@
-package Employee;
+package week1.Employee;
 
 public class Employee {
 
@@ -86,7 +86,7 @@ public class Employee {
 
 
     public String toString() {
-        return "Employee.Employee{" +
+        return "week1.Employee.week1.Employee{" +
                 "fullName='" + fullName + '\'' +
                 ", salary=" + salary +
                 ", workHours=" + workHours +

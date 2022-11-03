@@ -1,4 +1,4 @@
-package grocery;
+package week1.grocery;
 
 import java.util.Scanner;
 

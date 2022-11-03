@@ -1,4 +1,4 @@
-package takximeter;
+package week1.takximeter;
 
 import java.util.Scanner;
 

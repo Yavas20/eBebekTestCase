@@ -1,4 +1,4 @@
-package circle;
+package week1.circle;
 
 import java.util.Scanner;
 

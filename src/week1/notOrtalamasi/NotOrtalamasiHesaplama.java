@@ -1,4 +1,4 @@
-package notOrtalamasi;
+package week1.notOrtalamasi;
 
 import java.util.Scanner;
 

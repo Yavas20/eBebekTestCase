@@ -1,6 +1,5 @@
-package Employee;
+package week1.Employee;
 
-import Employee.Employee;
 
 public class EmployeeObjects {
 

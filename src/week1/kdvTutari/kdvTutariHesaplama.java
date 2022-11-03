@@ -1,4 +1,4 @@
-package kdvTutari;
+package week1.kdvTutari;
 
 import java.util.Scanner;
 

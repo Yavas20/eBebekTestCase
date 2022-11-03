@@ -1,4 +1,4 @@
-package hipotenus;
+package week1.hipotenus;
 
 import java.util.Scanner;
 
